@@ -8,7 +8,7 @@ I am an aspiring Web Developer who comes from a background of music production.
 
 * 🌍  I'm based in Utah
 * ✉️  You can contact me at [dakotagreybradford@gmail.com](mailto:dakotagreybradford@gmail.com)
-* 🧠  I'm learning Next.js & Typescript
+* 🧠  I'm learning Data Structures & Algorithms!
 * 🤝  I'm open to collaborating on anything!
 * ⚡  I make music as well @lycii
 
