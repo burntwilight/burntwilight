@@ -10,7 +10,7 @@ I am an aspiring Web Developer who comes from a background of music production.
 * ✉️  You can contact me at [dakotagreybradford@gmail.com](mailto:dakotagreybradford@gmail.com)
 * 🧠  I'm learning Data Structures & Algorithms!
 * 🤝  I'm open to collaborating on anything!
-* ⚡  I make music as well @lycii
+* ⚡  I make music as well @lyciiofficial
 
 ### Skills
 
